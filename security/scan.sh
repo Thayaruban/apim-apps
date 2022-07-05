@@ -12,6 +12,7 @@
           git pull https://github.com/wso2/apim-apps.git
           echo "Done Pulling"
           snyk test --json-file-output="../../security/security-backend/resources/$1".json
+
           mkdir ../../temp/
           cp ../../security/security-backend/resources/$1.json  ../../temp/
           git stash pop
