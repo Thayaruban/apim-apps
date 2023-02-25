@@ -85,8 +85,8 @@
         "sanitize-html": "^2.7.0",
         "subscriptions-transport-ws": "^0.9.19",
         "swagger-client": "^3.18.4",
-        "swagger-ui": "^3.52.5",
-        "swagger-ui-react": "^3.52.5",
+        "swagger-ui": "^4.16.1",
+        "swagger-ui-react": "^4.16.1",
         "swagger2-postman2-converter": "0.0.3"
     },
     "devDependencies": {
