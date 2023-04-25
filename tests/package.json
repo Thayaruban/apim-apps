@@ -20,7 +20,7 @@
     "eslint-plugin-cypress": "^2.11.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.942.0",
+    "aws-sdk": "^2.1354.0",
     "cypress-file-upload": "^5.0.8",
     "html-pdf": "^3.0.1",
     "require-text": "0.0.1",
