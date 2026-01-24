@@ -86,7 +86,7 @@
         "react-dropzone": "^v12.0.1",
         "react-hot-toast": "^2.2.0",
         "react-intl": "^v5.24.6",
-        "react-markdown": "^8.0.0",
+        "react-markdown": "^9.0.0",
         "react-monaco-editor": "^0.36.0",
         "react-router": "^5.2.1",
         "react-router-dom": "^5.2.1",
